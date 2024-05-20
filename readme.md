@@ -2,7 +2,11 @@
 
 This is a dark-light contrast website as my personal portfolio. It includes a bit of custom JavaScript for the typewriter effect and uses a script called "Lightbox" for the project modals.
 
+<<<<<<< HEAD
 <img src="./images/screen.jpg" />
+=======
+<img src="./images/screen.JPG" />
+>>>>>>> e617df97a8f763a9952d3c4070f3ebfdf3b5f029
 
 ## Features
 
