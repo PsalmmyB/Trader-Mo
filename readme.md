@@ -1,6 +1,6 @@
 # Portfolio Website
 
-This is a dark-light contrast website as my personal portfolio. It includes a bit of custom JavaScript for the typewriter effect and uses a script called "Lightbox" for the project modals.
+A Golder Portfolio Website
 
 
 <img src="./images/screen.jpg" />
